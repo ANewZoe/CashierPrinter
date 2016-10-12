@@ -1,2 +1,2 @@
-# CashierPrinter
-This is a Android printer, the current use of broadband connections, there are also local links on the cloud.
+# CallServices
+This is a call service in a restaurant system, designed for the use of restaurant attendants.
